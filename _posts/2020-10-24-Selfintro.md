@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "自我介绍"
-tags: thoughts
+tags: info
 ---
 <img src="https://i.pinimg.com/originals/bc/10/f9/bc10f964a195fdee76e749bf0f552c30.jpg" width="250" height="" alt=""/>
   
