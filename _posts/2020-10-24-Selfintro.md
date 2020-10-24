@@ -4,9 +4,7 @@ title: "自我介绍"
 tags: thoughts
 ---
 
-<p align = "center">
-<img src = 'https://i.pinimg.com/originals/bc/10/f9/bc10f964a195fdee76e749bf0f552c30.jpg' alt = '' height = 35% width = />
-</p>
+![](https://i.pinimg.com/originals/bc/10/f9/bc10f964a195fdee76e749bf0f552c30.jpg)
   
   
 您好，衷心感谢您能在广漠的赛博空间里找到这个属于我的小角落。  
