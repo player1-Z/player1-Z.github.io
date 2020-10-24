@@ -5,7 +5,7 @@ tags: thoughts
 ---
 
 <p align = "center">
-<img src = 'https://i.pinimg.com/originals/bc/10/f9/bc10f964a195fdee76e749bf0f552c30.jpg' alt = 'shenxiaotao' height = 35% width = 50% />
+<img src = 'https://i.pinimg.com/originals/bc/10/f9/bc10f964a195fdee76e749bf0f552c30.jpg' alt = '' height = 35% width = />
 </p>
   
   
