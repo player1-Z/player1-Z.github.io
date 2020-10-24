@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "游戏开发"
-tags: creation
+tags: works
 ---
 
 我将在未来2-3年内利用业余时间独自开发一款剧情向rpg游戏。  
