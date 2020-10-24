@@ -5,9 +5,6 @@ tags: thoughts
 ---
 <img src="https://i.pinimg.com/originals/bc/10/f9/bc10f964a195fdee76e749bf0f552c30.jpg" width="250" height="" alt=""/>
   
-![](https://i.pinimg.com/originals/bc/10/f9/bc10f964a195fdee76e749bf0f552c30.jpg)
-  
-  
 您好，衷心感谢您能在广漠的赛博空间里找到这个属于我的小角落。  
 请称呼我为"Z"就好。  
 或许您会疑惑，"Z"这个称谓是否过于普通与常见。然而对我来说，“普通”与“埋没于千千万万位同名者之中”才是我所渴求的。  
