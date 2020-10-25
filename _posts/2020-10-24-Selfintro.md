@@ -15,12 +15,12 @@ tags: info
   文艺: 文学，音乐，电影。  
   二次元: 游戏，动画，漫画。  
   科研: 哲学，逻辑学，计算机，数学，物理学。  
-我喜欢的作家: 村上春树，赫尔曼·黑塞，弗朗茨·卡夫卡，米兰·昆德拉，太宰治，伊塔洛·卡尔维诺，加西亚·马尔克斯，费奥多尔·陀思妥耶夫斯基，布鲁诺·舒尔茨。  
+我喜欢的作家: 村上春树，赫尔曼·黑塞，弗朗茨·卡夫卡，米兰·昆德拉，太宰治，伊塔洛·卡尔维诺，加西亚·马尔克斯，费奥多尔·陀思妥耶夫斯基，布鲁诺·舒尔茨，京极夏彦，横沟正史，安部公房，梦野久作，爱伦·坡，乙一。   
   喜欢的音乐类型: Darkwave，Ambient，Industrial，Jazz，Instrumental，Electronic，Jazz-hiphop，Experimental，Post-rock。  
-  喜欢的音乐人：窦唯，Current93，Death in June，Uaral，Goldmund，The Moon Lay Hidden Beneath a Cloud，Der Blaue Reiter，Max Richter，初音ミク，Mili，削除，DiverseSystem，Nujabes，World's End Girlfriend，The Best Pessimist，Ground Zero。  
+  喜欢的音乐人：窦唯，Current93，Death in June，Goldmund，The Moon Lay Hidden Beneath a Cloud，Der Blaue Reiter，Max Richter，初音ミク，Mili，削除，DiverseSystem，Nujabes，World's End Girlfriend，The Best Pessimist，Ground Zero。  
   喜欢的音乐厂牌: 4AD，CMI，ECM，BlueNote。  
   喜欢的影视题材: 科幻，奇幻，Cult，超现实，恐怖，惊悚，悬疑，犯罪，推理，心理，喜剧，治愈，萌，热血。  
-  喜欢的电影导演: 寺山修寺，今村昌平，大卫·芬奇，伍迪·艾伦，岩井俊二，安德烈·塔可夫斯基，西奥·安哲罗普洛斯，英格玛·伯格曼，费德里科·费里尼，黑泽明，安德烈·祖拉斯基，亚历桑德罗·佐杜洛夫斯基。  
+  喜欢的电影导演: 寺山修司，今村昌平，大卫·芬奇，伍迪·艾伦，岩井俊二，安德烈·塔可夫斯基，西奥·安哲罗普洛斯，英格玛·伯格曼，费德里科·费里尼，黑泽明，安德烈·祖拉斯基，亚历桑德罗·佐杜洛夫斯基。  
   喜欢的动画导演: 今敏，宫崎骏，押井守。  
   喜欢的漫画家: 小畑健，押見修造，伊藤潤二。  
   喜欢的游戏: 海市蜃楼之馆，黑暗之魂系列，塞尔达系列，喷射战士2，荒野大镖客:救赎2，还愿，奇异人生1。  
