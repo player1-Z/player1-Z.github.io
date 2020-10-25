@@ -15,6 +15,7 @@ tags: info
   文艺: 文学，音乐，电影。  
   二次元: 游戏，动画，漫画。  
   科研: 哲学，逻辑学，计算机，数学，物理学。  
+    
 我喜欢的作家: 村上春树，赫尔曼·黑塞，弗朗茨·卡夫卡，米兰·昆德拉，太宰治，伊塔洛·卡尔维诺，加西亚·马尔克斯，费奥多尔·陀思妥耶夫斯基，布鲁诺·舒尔茨，京极夏彦，横沟正史，安部公房，梦野久作，爱伦·坡，乙一。   
   喜欢的音乐类型: Darkwave，Ambient，Industrial，Jazz，Instrumental，Electronic，Jazz-hiphop，Experimental，Post-rock。  
   喜欢的音乐人：窦唯，Current93，Death in June，Goldmund，The Moon Lay Hidden Beneath a Cloud，Der Blaue Reiter，Max Richter，初音ミク，Mili，削除，DiverseSystem，Nujabes，World's End Girlfriend，The Best Pessimist，Ground Zero。  
