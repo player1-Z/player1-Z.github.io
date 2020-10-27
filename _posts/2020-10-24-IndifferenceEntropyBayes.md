@@ -3,7 +3,7 @@ layout: default
 title: "无差别原理，熵与贝叶斯"
 tags: blogs
 ---
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 
 ## 派别
 **客观学派**   
