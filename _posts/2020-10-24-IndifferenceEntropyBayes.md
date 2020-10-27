@@ -3,7 +3,17 @@ layout: default
 title: "无差别原理，熵与贝叶斯"
 tags: blogs
 ---
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head>
 
 ## 派别
 **客观学派**   
@@ -17,4 +27,4 @@ tags: blogs
 ## 无差别原理
 无差别原理(Principle of Indifference)，又不充分理由原则(Principle of Insufficient Reason)，最早由拉普拉斯提出，由凯恩斯正式确立术语。  
 内容: 当无任何已知信息可以为两种可能性赋予不同概率时，应赋予其相同概率。  
-基于该原理拉普拉斯确立了后继规则(Rule of Succession): 当事件连续发生$$m$$次，该事件在下一次发生概率为$$\frac{m+1}{m+2}$$。  
+基于该原理拉普拉斯确立了后继规则(Rule of Succession): 当事件连续发生$m$次，该事件在下一次发生概率为$\frac{m+1}{m+2}$。  
