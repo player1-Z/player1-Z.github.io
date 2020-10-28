@@ -22,7 +22,9 @@ Beta分布表示的是概率的概率，例如在抛硬币结果序列前对"两
 Beta分布有两个正值参数: $\alpha$和$\beta$，Beta分布表示为$Beta(a,b)=\frac{x^{\alpha -1}(1-x)^{\beta -1}}{B(\alpha,\beta)}$，其中$B$为Beta函数。  
 Beta分布的均值(期望值)为: $E(X)=\frac{\alpha}{\alpha +\beta}$。  
 Beta分布的方差为: $\frac{\alpha\beta}{(\alpha +\beta)^2(\alpha +\beta +1)}$。  
-Beta
+Beta分布是Bernoulli/二项分布/负二项分布和几何分布的共轭先验分布。  
+当$\alpha$与$\beta$都取值为1时，Beta分布即为均匀分布。由此可见，无差别原理仅为Beta分布的特例。  
+<img src="https://pic4.zhimg.com/50/v2-c8a881146a1d2ee3423a38242d971022_hd.webp?source=1940ef5c" width="250" height="" alt=""/>  
 
 
 ## 充足性假设
