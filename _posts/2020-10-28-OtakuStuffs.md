@@ -26,6 +26,6 @@ tags: journal
   
 <img src="https://i.pinimg.com/originals/00/c4/8a/00c48a86527d38d0cc71184f88475af7.jpg" width="500" height="" alt=""/>  
   
-<img src="hhttps://i.pinimg.com/originals/3a/98/88/3a98886b814ee42c0ce88a788e97eeca.jpg" width="500" height="" alt=""/>  
+<img src="https://i.pinimg.com/originals/3a/98/88/3a98886b814ee42c0ce88a788e97eeca.jpg" width="500" height="" alt=""/>  
   
 <img src="https://i.pinimg.com/originals/a3/e2/5e/a3e25eae3b2151d8cecc668133722e04.jpg" width="500" height="" alt=""/>  
