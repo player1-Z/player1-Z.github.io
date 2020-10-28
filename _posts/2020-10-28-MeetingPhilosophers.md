@@ -4,7 +4,7 @@ title: "今年见了不少人"
 tags: dairy
 ---
 
-今年截止到今天在webinar上见到的哲学家有Noam Chomsky，Timothy Williamson，Robert Brandom。
+今年截止到今天在webinar上见到的较知名的哲学家有Noam Chomsky，Timothy Williamson，Robert Brandom。
 
 <img src="https://i.pinimg.com/originals/0b/38/f8/0b38f8c2a48a78327a4bd17cfed19813.png" width="350" height="" alt=""/>
   
