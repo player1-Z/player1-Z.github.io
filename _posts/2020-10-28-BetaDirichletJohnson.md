@@ -1,4 +1,4 @@
----B
+---
 layout: default
 title: "充足性,Beta与Dirichlet分布"
 tags: notes
