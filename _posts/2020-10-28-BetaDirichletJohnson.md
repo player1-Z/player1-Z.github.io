@@ -25,7 +25,10 @@ Beta分布的方差为: $\frac{\alpha\beta}{(\alpha +\beta)^2(\alpha +\beta +1)}
 Beta分布是Bernoulli/二项分布/负二项分布和几何分布的共轭先验分布。  
 当$\alpha$与$\beta$都取值为1时，Beta分布即为均匀分布。由此可见，无差别原理仅为Beta分布的特例。  
 <img src="https://pic4.zhimg.com/50/v2-c8a881146a1d2ee3423a38242d971022_hd.webp?source=1940ef5c" width="250" height="" alt=""/>  
-
+  
+## Dirichlet分布
+Dirichlet分布是将Beta分布由二项分布推广到多项分布后的共轭分布。
 
 ## 充足性假设
-由W.E.Johnson在1920s提出，
+由W.E.Johnson在1920s提出，其实质即将Hardy与Whitworth的Beta先验分布扩充为多项分布的Dirichlet先验分布。  
+值得一提的是，卡尔纳普在1952年提出的归纳方法的连续统(The Continuum of Inductive Methods)也是将其1950年的归纳逻辑系统发展成具有Dirichlet先验分布的系统。  
