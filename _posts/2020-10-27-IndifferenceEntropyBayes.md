@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "无差别,熵与贝叶斯"
-tags: blogs
+tags: notes
 ---
 <head>
     <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
