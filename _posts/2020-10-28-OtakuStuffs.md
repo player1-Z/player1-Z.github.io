@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "一些宅物"
-tags: logs
+tags: journal
 ---
 
 这两年的部分宅物。
