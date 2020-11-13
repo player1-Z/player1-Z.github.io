@@ -43,4 +43,4 @@ human_ai #托管至AI
 总体而言群星的中文成就指南目前并不多，据我所知也就3~4篇，这篇是我读过的里面觉得最有用的，因为它列举了各个版本可达成的成就，有助于dlc未全买的玩家达成相应版本的成就，而不用浪费时间去达成那些没有相应dlc的成就。  
 
 最后，祝游戏愉快。  
-<font size=15><font color=Red><font face="微软雅黑">"我们的征途是星辰大海！"</font></font></font>
+<font size=12><font color=Red><font face="微软雅黑">"我们的征途是星辰大海！"</font></font></font>
