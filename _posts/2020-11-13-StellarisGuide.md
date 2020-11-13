@@ -39,7 +39,7 @@ human_ai #托管至AI
 3. [飞升天赋路线](https://qunxing.huijiwiki.com/wiki/%E9%A3%9E%E5%8D%87%E5%A4%A9%E8%B5%8B)，列举三大飞升天赋一阶和二阶路线，是达成某些特定成就或取得某些科技的前置条件(有些科技即使你解锁了但没有相应的天赋也无法使用)，例如修建戴森球和环形世界就需要"星河奇迹"天赋。  
 
 ## 成就指南
-推荐这篇群星成就指南: [群星stellaris全DLC 100%成就指南](https://steamcommunity.com/sharedfiles/filedetails/?id=1589611218)。
+推荐这篇群星成就指南: [群星stellaris全DLC 100%成就指南](https://steamcommunity.com/sharedfiles/filedetails/?id=1589611218)。  
 总体而言群星的中文成就指南目前并不多，据我所知也就3~4篇，这篇是我读过的里面觉得最有用的，因为它列举了各个版本可达成的成就，有助于dlc未全买的玩家达成相应版本的成就，而不用浪费时间去达成那些没有相应dlc的成就。  
 
 最后，祝游戏愉快。  
