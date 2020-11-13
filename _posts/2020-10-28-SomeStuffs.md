@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "一些置备"
-tags: logs
+tags: journal
 ---
 
 目前的持有物。
