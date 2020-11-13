@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "一个愿望"
-tags: logs
+tags: journal
 ---
 
 在多年以后 可以在上海有一份工作 有一间或许不大的屋子  
