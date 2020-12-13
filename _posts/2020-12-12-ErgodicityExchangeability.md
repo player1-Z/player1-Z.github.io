@@ -14,7 +14,6 @@ tags: notes
         });
     </script>
 </head>
-
 ## 可交换性与表示定理
 de Finetti的想法其实很简单，就是将客观学派的伯努利大数定律和中心极限定理表示(represent)为主观学派的观点。  
 方法也很简单，就是将客观学派"事件独立性"(independence)的观点替换为"事件的可交换性"(exchangeability)。  
@@ -29,6 +28,6 @@ Plato(不是古希腊的那个柏拉图而是曾执教于赫尔辛基的逻辑�
 所谓的遍历分解指的是将一个严平稳序列分解成遍历部分，且每个部分都保持了原序列的统计性质，如频率的极限保持不变。  
 但是Plato同样认为，因为平稳过程及其遍历分解通常带有物理性质，用于描述相关的物理客体，因此并非所有的客观频率都可以通过de Finetti的表示定理表示为主观的概率。  
   
-更多关于时间序列的知识，推荐这篇北大李东风的这边备课笔记，地址：[应用时间序列分析备课笔记](https://www.math.pku.edu.cn/teachers/lidf/course/atsa/atsanotes/html/_atsanotes/index.html#%E8%AF%BE%E7%A8%8B%E5%86%85%E5%AE%B9)。
+更多关于时间序列的知识，推荐北大李东风老师的这篇备课笔记，地址：[应用时间序列分析备课笔记](https://www.math.pku.edu.cn/teachers/lidf/course/atsa/atsanotes/html/_atsanotes/index.html#%E8%AF%BE%E7%A8%8B%E5%86%85%E5%AE%B9)。
   
   
