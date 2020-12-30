@@ -19,7 +19,7 @@ tags: info
   
 ## 个性
 我的mbti职业性格测试结果为: intj。我的socionics类型为：ILI。  
-我的九型人格测试结果为：5号，侧翼为6号，tritype为514。我的本能副型堆叠为：sp/sx。  
+我的九型人格测试结果为：5w4，tritype为514。我的本能副型堆叠为：sp/sx。  
 我的九宫格阵营测试结果为: 绝对中立。  
 我的政治象限测试结果为: Left-libertarianism。  
       
