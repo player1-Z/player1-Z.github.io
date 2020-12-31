@@ -20,6 +20,7 @@ tags: info
 ## 个性
 我的mbti职业性格类型为: intj【大壮】。我的socionics类型为：ILI。  
 我的九型人格类型为：5号，侧翼为6号，tritype为513。我的本能堆叠为：sp/sx。  
+我的气质类型为：粘液质。  
 我的九宫格阵营测试结果为: 绝对中立。  
 我的政治象限测试结果为: Left-libertarianism。  
       
