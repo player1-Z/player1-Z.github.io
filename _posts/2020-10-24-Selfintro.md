@@ -3,7 +3,7 @@ layout: default
 title: "自我介绍"
 tags: info
 ---
-<img src="https://i.pinimg.com/originals/8d/00/ad/8d00ad657c32d2a7a1dd21efb7acc68c.jpg" width="250" height="" alt=""/>
+<img src="https://i.pinimg.com/originals/bc/10/f9/bc10f964a195fdee76e749bf0f552c30.jpg" width="250" height="" alt=""/>
   
 您好，衷心感谢您能在广漠的赛博空间里找到这个属于我的小角落。  
 请称呼我为"Z"就好。  
