@@ -19,12 +19,12 @@ tags: info
   其他: 国际象棋，魔方，模玩。  
   
 ## 个性
-我的mbti职业性格类型为: infj。我的socionics类型为：ILI。  
+我的mbti职业性格类型为: INFJ。我的socionics类型为：ILI。  
 我的九型人格类型为：5w6-8w9-3w4。我的本能堆叠为：sp/sx。  
 我的大五人格类型为：RCOEI。  
 我的气质类型为：粘液质。  
 我的九宫格阵营测试结果为: 绝对中立。  
 我的霍格沃茨魔法学校分院测试结果为：Slytherin。  
-我的政治象限测试结果为: Left-libertarianism。  
+我的政治象限测试结果为: Left-libertarianism。   
       
 
