@@ -19,7 +19,7 @@ tags: info
   其他: 国际象棋，魔方，模玩。  
   
 ## 个性
-我的mbti职业性格类型为: INFJ。我的socionics类型为: ILI。  
+我的mbti职业性格类型为: INTJ。我的socionics类型为: ILI。  
 我的九型人格类型为: 5w6-8w9-3w4。我的本能堆叠为: sp/sx。  
 我的大五人格类型为: RCOEI。  
 我的气质类型为: 粘液质。  
