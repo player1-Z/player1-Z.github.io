@@ -25,6 +25,6 @@ tags: info
 我的气质类型为: 粘液质。  
 我的九宫格阵营测试结果为: 绝对中立。  
 我的霍格沃茨魔法学校分院测试结果为: Slytherin。  
-我的政治象限测试结果为: Left-libertarianism。   
+我的政治象限测试结果为: Right-libertarianism。   
       
 
