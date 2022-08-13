@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "游戏开发"
+title: "开发"
 tags: works
 ---
 
