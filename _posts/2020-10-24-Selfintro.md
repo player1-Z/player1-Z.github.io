@@ -19,12 +19,8 @@ tags: info
   
   
 ## 个性
-我的mbti职业性格类型为: INTJ。我的socionics类型为: ILI。  
-我的九型人格类型为: 5w4-8w7-3w4。我的本能堆叠为: so/sp。  
-我的大五人格类型为: RCOEI。  
-我的气质类型为: 粘液质。  
-我的九宫格阵营测试结果为: 绝对中立。  
-我的霍格沃茨魔法学校分院测试结果为: Slytherin。  
-我的政治象限测试结果为: Right-libertarianism。   
+我的mbti职业性格类型为: INFJ。 
+我的九型人格类型为: 5w4。
+我的政治象限测试结果为: Left-libertarianism。  
       
 
