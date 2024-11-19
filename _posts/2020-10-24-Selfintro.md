@@ -20,7 +20,7 @@ tags: info
   
 ## 个性
 我的mbti职业性格类型为: INFJ。 
-我的九型人格类型为: 5w4。
+我的九型人格类型为: 4w5。
 我的政治象限测试结果为: Left-libertarianism。  
       
 
